@@ -1,6 +1,8 @@
 # robotics-program-files
 A collection of python files used to program the SunFounder Raspberry Pi Robot Car. This kit was used in the Robotics &amp; Algorithms Control class, also known as ECE 452 at UIC.
 
+Link to the SunFounder Raspberry Pi Robot Car Kit can be found on Amazon: https://www.amazon.com/gp/product/B08F46Q24N/ref=ox_sc_saved_image_1?smid=ADHH624DX2Q66&psc=1
+
 Each project has three tasks, all listed briefly below:
 
 Project 1 -
